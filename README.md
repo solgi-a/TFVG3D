@@ -1,6 +1,6 @@
 # TFVG3D
 
-Official implementation of ["A Transformer-based Framework for Visual Grounding on 3D Point Clouds"](https://ieeexplore.ieee.org/document/10475280) paper.
+Official implementation of "[A Transformer-based Framework for Visual Grounding on 3D Point Clouds]"(https://ieeexplore.ieee.org/document/10475280) paper.
 
 ![Diagram](./image/Diagram.jpg)
 
