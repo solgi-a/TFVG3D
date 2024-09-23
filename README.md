@@ -1,6 +1,6 @@
 # TFVG3D
 
-Official implementation of "[A Transformer-based Framework for Visual Grounding on 3D Point Clouds](https://ieeexplore.ieee.org/document/10475280)" paper.
+This repo is the official implementation of "[A Transformer-based Framework for Visual Grounding on 3D Point Clouds](https://ieeexplore.ieee.org/document/10475280)".
 
 ![Diagram](./image/Diagram.jpg)
 
