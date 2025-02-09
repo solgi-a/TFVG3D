@@ -59,7 +59,7 @@ settings:
 ### Table 1: Validation Set
 |                                        |          |  Unique  |  Unique | Multiple | Multiple |  Overall | Overall |
 |:--------------------------------------:|:--------:|:--------:|:-------:|:--------:|:--------:|:--------:|:-------:|
-|               **Methods**              | **Modality** | Acc@0.25 | Acc@0.5 | Acc@0.25 |  Acc@0.5 | Acc@0.25 | Acc@0.5 |
+|               **Methods**             |**Modality**| Acc@0.25 | Acc@0.5 | Acc@0.25 |  Acc@0.5 | Acc@0.25 | Acc@0.5 |
 |              ReferIt3DNet              |    3D    |  53.75   |	37.47  |	 21.03  |	  12.83  |	 26.44  |	 16.90  |
 |                ScanRefer               |    3D    |   67.64  |  46.19  |   32.06  |   21.26  |   38.97  |  26.10  |
 |           Language-assisted 3D         |    3D    |     -    |  49.80  |     -    |   22.75  |     -    |  28.00  |
@@ -77,7 +77,7 @@ settings:
 ### Table 2: Online Benchmark
 |                                        |          |  Unique  | Unique  | Multiple | Multiple | Overall  | Overall |
 |:--------------------------------------:|:--------:|:--------:|:-------:|:--------:|:--------:|:--------:|:-------:|
-|                 Methods                | Modality | Acc@0.25 | Acc@0.5 | Acc@0.25 | Acc@0.5  | Acc@0.25 | Acc@0.5 |
+|               **Methods**             |**Modality**| Acc@0.25 | Acc@0.5 | Acc@0.25 | Acc@0.5  | Acc@0.25 | Acc@0.5 |
 |                ScanRefer               | 2D + 3D  |  68.59   |  43.53  |  34.88   |  20.97   |  42.44   |  26.03  |
 |                  TGNN                  | 2D + 3D  |  68.34   |  58.94  |  33.12   |  25.26   |  41.02   |  32.81  |
 |              InstanceRefer             | 2D + 3D  |  77.82   |  66.69  |  34.57   |  26.88   |  44.27   |**35.80**|
