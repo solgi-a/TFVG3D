@@ -57,7 +57,8 @@ settings:
 3D Only (XYZ+RGB): --use_color --use_normal
 2D+3D (XYZ+Multiview): --use_multiview --use_normal --no_height
 
-|             Validation Set             |          |  Unique  |  Unique | Multiple | Multiple |  Overall | Overall |
+### Table 1: Validation Set
+|                                        |          |  Unique  |  Unique | Multiple | Multiple |  Overall | Overall |
 |:--------------------------------------:|:--------:|:--------:|:-------:|:--------:|:--------:|:--------:|:-------:|
 |                 Methods                | Modality | Acc@0.25 | Acc@0.5 | Acc@0.25 |  Acc@0.5 | Acc@0.25 | Acc@0.5 |
 |              ReferIt3DNet              |    3D    |  53.75   |	37.47  |	 21.03  |	  12.83  |	 26.44  |	 16.90  |
@@ -74,8 +75,8 @@ settings:
 |           language-assisted 3D         |  2D + 3D |     -    |  59.31  |     -    |   25.07  |     -    |  31.71  |
 |             TFVG3D++ (Ours)            |  2D + 3D |   80.38  |	59.30  | 	 36.49  |	  26.01	 |**45.00** |**32.47**|
 
-
-|            Online Benchmark            |          |  Unique  | Unique  | Multiple | Multiple | Overall  | Overall |
+### Table 1: Online Benchmark
+|                                        |          |  Unique  | Unique  | Multiple | Multiple | Overall  | Overall |
 |:--------------------------------------:|:--------:|:--------:|:-------:|:--------:|:--------:|:--------:|:-------:|
 |                 Methods                | Modality | Acc@0.25 | Acc@0.5 | Acc@0.25 | Acc@0.5  | Acc@0.25 | Acc@0.5 |
 |                ScanRefer               | 2D + 3D  |  68.59   |  43.53  |  34.88   |  20.97   |  42.44   |  26.03  |
