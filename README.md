@@ -83,3 +83,5 @@ settings:
 |              InstanceRefer             | 2D + 3D  |  77.82   |  66.69  |  34.57   |  26.88   |  44.27   |  35.80  |
 |             TFVG3D++ (Ours)            | 2D + 3D  |  74.53   |  54.58  |	 37.93  |  26.90   |	46.14   |  33.11  |
 
+## Acknowledgement
+We would like to express our gratitude to [ScanRefer](https://github.com/daveredrum/ScanRefer) for their codebase.
