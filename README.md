@@ -32,20 +32,19 @@ Before moving on to the next step, please don't forget to set the project root p
 
 ## Training and Evaluation
 
-* To train the model, run the following commands:
+* To train the model, execute the following commands:
 
 ```shell
 python ScanRefer_train.py --use_multiview --use_normal --no_height --batch_size 8 --lang_num_max 32 --epoch 50 --lr 0.002 --lang_lr 0.0005 --match_lr 0.0005 --coslr
 ```
 
-* To evaluate the model, run the following commands:
+* To evaluate the model, execute the following commands:
 
 ```shell
 python ScanRefer_eval.py --folder path --reference --use_multiview --use_normal --no_height --no_nms --force --repeat 1 --lang_num_max 1 --batch_size 32
 ```
 
-* To generate predictions on ScanRefer hidden test set, run the following commands:
-
+* To generate predictions for the ScanRefer hidden test set, execute the following commands:
 ```shell
 python benchmark/predict.py --folder path --use_multiview --use_normal --no_height --batch_size 32 
 ```
