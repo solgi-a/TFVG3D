@@ -75,7 +75,7 @@ settings:
 |           language-assisted 3D         |  2D + 3D |     -    |  59.31  |     -    |   25.07  |     -    |  31.71  |
 |             TFVG3D++ (Ours)            |  2D + 3D |   80.38  |	59.30  | 	 36.49  |	  26.01	 |**45.00** |**32.47**|
 
-### Table 1: Online Benchmark
+### Table 2: Online Benchmark
 |                                        |          |  Unique  | Unique  | Multiple | Multiple | Overall  | Overall |
 |:--------------------------------------:|:--------:|:--------:|:-------:|:--------:|:--------:|:--------:|:-------:|
 |                 Methods                | Modality | Acc@0.25 | Acc@0.5 | Acc@0.25 | Acc@0.5  | Acc@0.25 | Acc@0.5 |
